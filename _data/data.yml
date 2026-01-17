@@ -12,8 +12,9 @@ contact:
   twitter: 
 
 languages:
-  - idiom: English - Advanced
+  - idiom: English - C2
   - idiom: Portuguese - Native
+  - idiom: Spanish - Basic
 
 education:
   - degree: Software Engineering
@@ -71,7 +72,7 @@ profile: |
 
 experience:
   - role: Fullstack Developer
-    time: Jul/2021 - Present
+    time: Jul/2021 - Jul/2025
     company: Meta3 Services & Technologies
     details: |
       Working on fullstack projects, developing Back-End, Front-End, and DevOps features as needed.
